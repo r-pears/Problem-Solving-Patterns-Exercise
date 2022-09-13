@@ -1,4 +1,3 @@
-// add whatever parameters you deem necessary
 function constructNote(message, letters) {
   const lettersFreq = {};
   const messageFreq = {};

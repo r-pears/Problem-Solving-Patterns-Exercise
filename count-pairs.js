@@ -1,4 +1,3 @@
-// add whatever parameters you deem necessary
 function countPairs(arr, num) {
   arr.sort((a, b) => a - b);
 

@@ -1,4 +1,3 @@
-// add whatever parameters you deem necessary
 function averagePair(arr, num) {
   let start = 0;
   let end = arr.length - 1;
